@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * MageMe
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the MageMe.com license that is
+ * available through the world-wide-web at this URL:
+ * https://mageme.com/license
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade this extension to a newer
+ * version in the future.
+ *
+ * Copyright (c) MageMe (https://mageme.com)
+ **/
+-->
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+    <table name="mm_webforms_form" resource="default" engine="innodb">
+        <column xsi:type="boolean" name="freshdesk_is_ticket_enabled" nullable="false" default="0"
+                comment="Freshdesk ticket integration enabled"/>
+        <column xsi:type="int" name="freshdesk_ticket_email_field_id" unsigned="true" nullable="true"
+                comment="Freshdesk Ticket Email Override"/>
+        <column xsi:type="text" name="freshdesk_ticket_responder_id" nullable="true"
+                comment="Freshdesk Ticket Responder ID"/>
+        <column xsi:type="text" name="freshdesk_ticket_email_config_id" nullable="true"
+                comment="Freshdesk Ticket Email Config ID"/>
+        <column xsi:type="text" name="freshdesk_ticket_group_id" nullable="true"
+                comment="Freshdesk Ticket Group ID"/>
+        <column xsi:type="text" name="freshdesk_ticket_company_id" nullable="true"
+                comment="Freshdesk Ticket Company ID"/>
+        <column xsi:type="text" name="freshdesk_ticket_type" nullable="true"
+                comment="Freshdesk Ticket Type"/>
+        <column xsi:type="text" name="freshdesk_ticket_status" nullable="true"
+                comment="Freshdesk Ticket Status"/>
+        <column xsi:type="text" name="freshdesk_ticket_priority" nullable="true"
+                comment="Freshdesk Ticket Priority"/>
+        <column xsi:type="text" name="freshdesk_ticket_source" nullable="true"
+                comment="Freshdesk Ticket Source"/>
+        <column xsi:type="text" name="freshdesk_ticket_tags" nullable="true"
+                comment="Freshdesk Ticket Tags"/>
+        <column xsi:type="text" name="freshdesk_ticket_map_fields_serialized" nullable="true"
+                comment="Freshdesk Ticket Fields in JSON"/>
+    </table>
+</schema>

@@ -1,0 +1,18 @@
+{
+    "mm_webforms_form": {
+        "column": {
+            "freshdesk_is_ticket_enabled": true,
+            "freshdesk_ticket_email_field_id": true,
+            "freshdesk_ticket_responder_id": true,
+            "freshdesk_ticket_email_config_id": true,
+            "freshdesk_ticket_group_id": true,
+            "freshdesk_ticket_company_id": true,
+            "freshdesk_ticket_type": true,
+            "freshdesk_ticket_status": true,
+            "freshdesk_ticket_priority": true,
+            "freshdesk_ticket_source": true,
+            "freshdesk_ticket_tags": true,
+            "freshdesk_ticket_map_fields_serialized": true
+        }
+    }
+}
