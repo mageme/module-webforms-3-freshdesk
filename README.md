@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mageme/module-webforms-3-freshdesk.svg)](https://packagist.org/packages/mageme/module-webforms-3-freshdesk)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/mageme/module-webforms-3-freshdesk.svg)](https://packagist.org/packages/mageme/module-webforms-3-freshdesk)
-[![License](https://img.shields.io/packagist/l/mageme/module-webforms-3-freshdesk.svg)](https://mageme.com/license/)
+[![License: Proprietary](https://img.shields.io/badge/license-proprietary-blue.svg)](https://mageme.com/license/)
 
 Connect your Magento 2 store forms directly to Freshdesk. This free add-on for [MageMe WebForms](https://mageme.com/magento-2-form-builder.html) automatically creates Freshdesk support tickets from customer form submissions — no coding required.
 
