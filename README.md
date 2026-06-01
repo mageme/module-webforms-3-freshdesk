@@ -1,8 +1,10 @@
-# Magento 2 Freshdesk Integration — MageMe WebForms
+# MageMe WebForms Freshdesk for Magento 2
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/mageme/module-webforms-3-freshdesk.svg)](https://packagist.org/packages/mageme/module-webforms-3-freshdesk)
-[![Packagist Downloads](https://img.shields.io/packagist/dt/mageme/module-webforms-3-freshdesk.svg)](https://packagist.org/packages/mageme/module-webforms-3-freshdesk)
-[![License: Proprietary](https://img.shields.io/badge/license-proprietary-blue.svg)](https://mageme.com/license/)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/mageme/module-webforms-3-freshdesk.svg?style=flat-square)](https://packagist.org/packages/mageme/module-webforms-3-freshdesk)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/mageme/module-webforms-3-freshdesk.svg?style=flat-square)](https://packagist.org/packages/mageme/module-webforms-3-freshdesk)
+[![Magento](https://img.shields.io/badge/Magento-2.4.x-EE672F.svg?style=flat-square)](https://magento.com)
+[![PHP](https://img.shields.io/badge/PHP-7.4%20–%208.5-777BB4.svg?style=flat-square)](https://php.net)
+[![License](https://img.shields.io/badge/license-MageMe%20EULA-blue.svg?style=flat-square)](https://mageme.com/license/)
 
 Connect your Magento 2 store forms directly to Freshdesk. This free add-on for [MageMe WebForms](https://mageme.com/magento-2-form-builder.html) automatically creates Freshdesk support tickets from customer form submissions — no coding required.
 
@@ -48,17 +50,21 @@ Extend your Magento 2 forms with more CRM and marketing integrations:
 - [Mailchimp](https://github.com/mageme/module-webforms-3-mailchimp) — subscribe customers to audiences
 - [Zapier](https://github.com/mageme/module-webforms-3-zapier) — connect forms to 7000+ apps
 
-## About MageMe WebForms
+## Custom Magento development
 
-[MageMe WebForms](https://mageme.com/magento-2-form-builder.html) is a form builder extension for Magento 2 used by store owners to create contact forms, surveys, registration forms, order forms, and more. It features conditional logic, multi-step forms, file uploads, email notifications, customer submission dashboards, and integrations with popular CRM and marketing platforms.
+Need a feature an extension doesn't cover, or a bespoke Magento build? MageMe takes on custom extension development and integration work.
 
-[Get MageMe WebForms for Magento 2](https://mageme.com/magento-2-form-builder.html)
+→ **[Custom Magento development](https://mageme.com/magento-services/custom-development)**
 
 ## Support
 
 - Documentation: [docs.mageme.com](https://docs.mageme.com)
-- Issue Tracker: [GitHub Issues](https://github.com/mageme/module-webforms-3-freshdesk/issues)
+- Bug reports and feature requests: [GitHub Issues](https://github.com/mageme/module-webforms-3-freshdesk/issues)
 
 ## License
 
-Proprietary. See [License](https://mageme.com/license/) for details.
+Governed by the **MageMe End User License Agreement** ([mageme.com/license](https://mageme.com/license/)). This add-on is distributed free of charge.
+
+---
+
+**MageMe WebForms** is a no-code form builder for Magento 2 — conditional logic, multi-step forms, file uploads, and CRM integrations. → [Get WebForms](https://mageme.com/magento-2-form-builder.html) · [Browse all extensions](https://mageme.com/extensions)
